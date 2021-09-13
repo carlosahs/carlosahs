@@ -4,7 +4,7 @@ of Robotics and Digital Systems.
 
 # 👀 I’m interested in
 * Machine Learning
-* Block chain
+* Blockchain
 * CAS systems
 
 🌱 I’m currently learning
