@@ -12,7 +12,7 @@ of Robotics and Digital Systems.
 * 🤖 AI fundamentals
 
 ## 📫 How to reach me ...
-* 
+* carlosahs42@gmail.com
 
 <!---
 carlosahs/carlosahs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
