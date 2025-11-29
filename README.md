@@ -1,13 +1,6 @@
 # 👋 Hi, I’m @carlosahs
 
-## 👀 I’m interested in
-* ☁️ AWS
-* 🪙 Mathematics
-* 🏁 Competitive programming
-
-## 🌱 I’m currently learning
-* 🦀 Rust
-* 🐿️ Go
+TODO!
 
 <!---
 carlosahs/carlosahs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
